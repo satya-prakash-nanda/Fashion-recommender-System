@@ -2,7 +2,7 @@
 
 ## AI Reverse Engineering Challenge Report
 
-1. Original System: Movie Recommender System
+### 1. Original System: Movie Recommender System
 
 The original system was a content-based movie recommender that used features like genre and plot descriptions to suggest similar films. While effective, it had limitations:
 
@@ -14,11 +14,11 @@ Cold Start Problem: The system struggles to recommend movies for new users or fi
 
 Overemphasis on Textual Data: The use of Count Vectorizer and Porter Stemmer focuses solely on textual analysis, which means the system might miss out on other important factors like user ratings, cast popularity, or visual aspects of the movies.
 
-2. Innovation: Fashion Recommender System
+###2. Innovation: Fashion Recommender System
 
 I transformed this movie recommender into a Fashion Recommender System that uses advanced image recognition and similarity algorithms to recommend clothing items.
 
-Technological Improvements: 
+#### Technological Improvements: 
 
 Transfer Learning with ResNet50: Extracts detailed visual features (patterns, textures) from fashion images, enabling accurate style recommendations.
 
@@ -44,7 +44,7 @@ Annoy Algorithm by Spotify: Replaces K-Nearest Neighbors, allowing fast, scalabl
 
 ![Screenshot 2024-08-14 164551](https://github.com/user-attachments/assets/745ac311-4196-4be6-b444-f96f24801d5b)
 
-Practical Applications:
+#### Practical Applications:
 
 E-commerce Personalization: Offers tailored recommendations, visual search, and outfit suggestions, enhancing the shopping experience.
 
@@ -52,6 +52,6 @@ Inventory Management: Automates the categorization of fashion items and tracks t
 
 Sustainability: Promotes second-hand fashion by recommending similar pre-owned items.
 
-Conclusion:
+#### Conclusion:
 
 This transformation has broadened the original system's applicability, leveraging image-based analysis and scalable algorithms to meet the demands of the fashion industry. The upgraded system offers more precise, scalable, and practical recommendations, addressing the limitations of the previous model.
