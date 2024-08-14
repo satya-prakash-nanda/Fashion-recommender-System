@@ -12,6 +12,8 @@ Scalability Issues: As the movie dataset grows, the system may face challenges i
 
 Cold Start Problem: The system struggles to recommend movies for new users or films with limited data since it relies heavily on user history and detailed descriptions to generate recommendations.
 
+Overemphasis on Textual Data: The use of Count Vectorizer and Porter Stemmer focuses solely on textual analysis, which means the system might miss out on other important factors like user ratings, cast popularity, or visual aspects of the movies.
+
 2. Innovation: Fashion Recommender System
 
 I transformed this movie recommender into a Fashion Recommender System that uses advanced image recognition and similarity algorithms to recommend clothing items.
