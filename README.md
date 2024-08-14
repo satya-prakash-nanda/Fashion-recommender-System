@@ -26,6 +26,7 @@ Transfer Learning with ResNet50: Extracts detailed visual features (patterns, te
 
 
 
+![Screenshot 2024-08-14 164455](https://github.com/user-attachments/assets/4b6f5d62-7f73-4afb-be43-14a1a6f9426c)
 
 
 
