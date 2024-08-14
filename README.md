@@ -8,6 +8,7 @@ The original system was a content-based movie recommender that used features lik
 Domain Restriction: Limited to text-based recommendations, not applicable to other areas like fashion.
 Scalability Issues: Struggled with large datasets due to reliance on algorithms like K-Nearest Neighbors.
 Cold Start Problem: Difficulty providing accurate recommendations for new users or items with little data.
+
 2. Innovation: Fashion Recommender System
 
 I transformed this movie recommender into a Fashion Recommender System that uses advanced image recognition and similarity algorithms to recommend clothing items.
@@ -15,6 +16,18 @@ I transformed this movie recommender into a Fashion Recommender System that uses
 Technological Improvements:
 
 Transfer Learning with ResNet50: Extracts detailed visual features (patterns, textures) from fashion images, enabling accurate style recommendations.
+
+
+
+
+
+
+
+
+
+
+
+
 Annoy Algorithm by Spotify: Replaces K-Nearest Neighbors, allowing fast, scalable similarity searches across large fashion catalogs.
 Practical Applications:
 
