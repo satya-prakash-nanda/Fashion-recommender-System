@@ -8,15 +8,15 @@ The original system was a content-based movie recommender that used features lik
 
 Domain Restriction: Limited to text-based recommendations, not applicable to other areas like fashion.
 
-Scalability Issues: Struggled with large datasets due to reliance on algorithms like K-Nearest Neighbors.
+Scalability Issues: As the movie dataset grows, the system may face challenges in processing and comparing the increasing number of movie descriptions, potentially leading to slower recommendation generation.
 
-Cold Start Problem: Difficulty providing accurate recommendations for new users or items with little data.
+Cold Start Problem: The system struggles to recommend movies for new users or films with limited data since it relies heavily on user history and detailed descriptions to generate recommendations.
 
 2. Innovation: Fashion Recommender System
 
 I transformed this movie recommender into a Fashion Recommender System that uses advanced image recognition and similarity algorithms to recommend clothing items.
 
-Technological Improvements:
+Technological Improvements: 
 
 Transfer Learning with ResNet50: Extracts detailed visual features (patterns, textures) from fashion images, enabling accurate style recommendations.
 
