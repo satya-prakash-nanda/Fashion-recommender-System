@@ -34,6 +34,11 @@ Transfer Learning with ResNet50: Extracts detailed visual features (patterns, te
 Annoy Algorithm by Spotify: Replaces K-Nearest Neighbors, allowing fast, scalable similarity searches across large fashion catalogs.
 
 
+![Screenshot 2024-08-14 164540](https://github.com/user-attachments/assets/9c2d6147-eea2-4ad8-b8b7-a806f0c498a7)
+
+
+![Screenshot 2024-08-14 164551](https://github.com/user-attachments/assets/745ac311-4196-4be6-b444-f96f24801d5b)
+
 Practical Applications:
 
 E-commerce Personalization: Offers tailored recommendations, visual search, and outfit suggestions, enhancing the shopping experience.
