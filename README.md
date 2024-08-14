@@ -20,9 +20,11 @@ I transformed this movie recommender into a Fashion Recommender System that uses
 
 #### Technological Improvements: 
 
-Transfer Learning with ResNet50: Extracts detailed visual features (patterns, textures) from fashion images, enabling accurate style recommendations.
+#### Transfer Learning with ResNet50:
 
+Advanced Visual Feature Extraction: ResNet50, a deep convolutional neural network pre-trained on ImageNet, was employed to extract detailed visual features from fashion images. This model excels at identifying intricate patterns, textures, and colors, making it ideal for understanding the visual nuances of fashion items.
 
+Adaptability Across Fashion Categories: ResNet50 enables the system to be quickly adapted to various fashion categories, whether clothing, footwear, or accessories. The network’s deep layers allow for capturing complex visual hierarchies, which are crucial for making accurate fashion recommendations.
 
 
 
