@@ -38,7 +38,13 @@ Adaptability Across Fashion Categories: ResNet50 enables the system to be quickl
 
 
 
-Annoy Algorithm by Spotify: Replaces K-Nearest Neighbors, allowing fast, scalable similarity searches across large fashion catalogs.
+#### Annoy Algorithm by Spotify:
+
+Efficient High-Dimensional Similarity Search: The Annoy algorithm (Approximate Nearest Neighbors Oh Yeah) was integrated to replace KNN. Annoy is specifically designed for fast and scalable nearest-neighbor searches in high-dimensional spaces, making it ideal for handling large-scale fashion image datasets.
+
+Scalability and Speed: Unlike KNN, Annoy can efficiently manage millions of images, ensuring that the system remains responsive even as the dataset grows. It is particularly useful in scenarios requiring real-time recommendations, such as e-commerce platforms.
+
+Approximate Nearest Neighbors: While Annoy sacrifices some precision for speed, this trade-off is beneficial in large-scale environments where performance is critical. The slight loss in precision is often imperceptible in practical applications but significantly boosts the system’s ability to scale.
 
 
 ![Screenshot 2024-08-14 164540](https://github.com/user-attachments/assets/9c2d6147-eea2-4ad8-b8b7-a806f0c498a7)
