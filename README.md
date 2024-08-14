@@ -45,7 +45,11 @@ Annoy Algorithm by Spotify: Replaces K-Nearest Neighbors, allowing fast, scalabl
 Practical Applications:
 
 E-commerce Personalization: Offers tailored recommendations, visual search, and outfit suggestions, enhancing the shopping experience.
+
 Inventory Management: Automates the categorization of fashion items and tracks trends.
+
 Sustainability: Promotes second-hand fashion by recommending similar pre-owned items.
+
 Conclusion:
+
 This transformation has broadened the original system's applicability, leveraging image-based analysis and scalable algorithms to meet the demands of the fashion industry. The upgraded system offers more precise, scalable, and practical recommendations, addressing the limitations of the previous model.
